@@ -48,6 +48,7 @@ public class Exercicios {
         cliente.setEndereco(endereco);
 
         System.out.println(cliente.toString());
+        System.out.println("A");
 
     }
 }
