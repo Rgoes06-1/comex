@@ -25,6 +25,7 @@ public class Exercicios {
         }
         else {
             System.out.println("Não são iguais");
+
         }
 
         //Exercicio 04
